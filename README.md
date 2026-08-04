@@ -1,8 +1,8 @@
-                             🧮 React Calculator App
+🧮 React Calculator App
 
 A modern, fast, and responsive **Calculator Application** built using **React.js**.
 
-                                     ---
+
 
 ## 🚀 Features
 
